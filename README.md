@@ -1,4 +1,4 @@
-# Spam Classification via Logistic Regression
+# Spam Email Classification via L2-Regularized Logistic Regression and Mini-Batch SGD
 
 This project implements a **Logistic Regression** model to classify emails from the UCI Spambase dataset as either "Spam" or "Non-Spam." 
 
